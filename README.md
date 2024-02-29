@@ -8,9 +8,9 @@ This is an attractive and user-friendly personal portfolio website developed usi
 
 # Web development: 
 Markup Languages used:
-# HTML
-# JS
-# PHP
+- HTML
+- JS
+- PHP
 
 # Usage brief:
 This page is written using html and styled using css and javascript functionalities also have been added.
@@ -24,17 +24,17 @@ Scripts are design to validate the form inputs and append them to database if no
 
 # Multimedia content:
 All the multimedia components including images, favicons, pdf files are included inthe assets folder.
-# portfolio gallery
+- portfolio gallery
 This website featurea a portfolio gallery where my masterpieces are dispalyed.
-# downlosdable resume
+- downlosdable resume
 This site also features a downloadable resume for visitors to view and download.
 
 
 # Self presence:
 This portfolio website has enough sections that conatin the capability to express the skills and expertise of myself which will help to express myself.
-# testimonials:
+- testimonials:
 this website also featurea a testimonials sections whre the client testimonials are displayed.
-# social media integration:
+- social media integration:
 For the purpose of eased communiaction, this website have social media links integrated to know more about me.
 
 
@@ -45,16 +45,16 @@ This site can adpot according to the screen size of the devices.
 
 # Additional info:
 folowing libraries are sed in the development of this website
-# Bootstrap
-# Bootstrap-icons
+- Bootstrap
+- Bootstrap-icons
 
 Following icon sources sre used to render the icons used in the sits
-# boxicons
+- boxicons
 # glightbox
 
 Various fonts are obtaibed from googlr fonts.
 
-# On the whole
+- On the whole
 On the whole, the whole website includes all the necessary elements need for self-promotion and branding.
 
 
