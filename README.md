@@ -50,11 +50,11 @@ folowing libraries are sed in the development of this website
 
 Following icon sources sre used to render the icons used in the sits
 - boxicons
-# glightbox
+- glightbox
 
-Various fonts are obtaibed from googlr fonts.
+Various fonts are obtaibed from google fonts.
 
-- On the whole
+# On the whole
 On the whole, the whole website includes all the necessary elements need for self-promotion and branding.
 
 
